@@ -31,5 +31,41 @@
 -	Cloud security governance supports business objectives by defining policies and managing risks through the establishment and maintenance of a framework that supports management structure and processes to provide assurance that information security strategies are consistent with how an organization operates.
 -	Security governance is the means by which you control and direct the organization's approach to security.
 
+<h2>•	Benefits of cloud governance. </h2>
+The benefits of cloud governance benefit an entity as well.
+-	Access Control.
+-	Enhanced compliance readiness.
+-	Lowered costs.
+-	Use a variety of software applications.
+-	With the click of a button, you can launch assets.
+-	You only pay for what you use.
+-	Cloud activity can be monitored and violations dealt with using policy and security.
+-	Reduced security risks.
+
+<h2>•	Processes of cloud governance.</h2>
+
+Processes of cloud governance provide an overarching framework for governing the life cycle of the cloud.
+
+•	Processes :
+1-	Communication :
+-	Methods – Provides information about methods to the governed process .
+-	Repository – It’s important for participants in governed processes .
+-	Standards – Identifies principles, standards and guidelines which are important to governed processes.
+-	Processes specific inputs and outputs – Identifies correct communication mechanism, tools and procedures. 
+
+2-	 Compliance: 
+-	Review – A governed process requests that the compliance process perform a specific compliance checkpoint review.
+-	Approve – the compliance process communicates with the governed process to obtain approval for compliance.
+-	Reject - The compliance process informs the governed process that its findings are not in accordance with policies.
+
+3-	Dispensation :
+-	Consider exception – A governed process requests that the dispensation process consider allowing an exception to a process.
+-	Exception granted – the dispensation process communicates its decision to grant a compliance exception request.
+-	Exception rejected – the dispensation process communicates its decision to reject a request for a compliance exception.
+
+
+
+
+
 
 
