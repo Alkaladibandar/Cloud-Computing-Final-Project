@@ -28,8 +28,8 @@
 <h3>3-	Management and monitoring</h3>
 <h3>4-	Operations and support</h3>
 
-<p>-	Cloud security governance supports business objectives by defining policies and managing risks through the establishment and maintenance of a framework that supports management structure and processes to provide assurance that information security strategies are consistent with how an organization operates.
--	Security governance is the means by which you control and direct the organization's approach to security.</p> <hr/>
+-	Cloud security governance supports business objectives by defining policies and managing risks through the establishment and maintenance of a framework that supports management structure and processes to provide assurance that information security strategies are consistent with how an organization operates.<br/>
+-	Security governance is the means by which you control and direct the organization's approach to security.
 
 <h2>•	Benefits of cloud governance. </h2>
 The benefits of cloud governance benefit an entity as well.
@@ -61,7 +61,7 @@ Processes of cloud governance provide an overarching framework for governing the
 3-	Dispensation :
 -	Consider exception – A governed process requests that the dispensation process consider allowing an exception to a process.
 -	Exception granted – the dispensation process communicates its decision to grant a compliance exception request.
--	Exception rejected – the dispensation process communicates its decision to reject a request for a compliance exception. <hr/>
+-	Exception rejected – the dispensation process communicates its decision to reject a request for a compliance exception. 
 
 <h2>•	Issues of cloud governance.</h2>
 The usage, involvement, and risk around governance differ from entity to entity. 
@@ -87,7 +87,7 @@ Governance models and standards should follow a certain criterion which is :
 -	developed by the Committee of Sponsoring Organizations.
 -	COBIT 5 – a governance framework for enterprise IT that complements the COSO framework for corporate governance.
 -	ITIL v3 – contains the best practice and process guidance of governance service strategy and management.
--	Val IT – provides policies and processes for evaluation selection of IT-enabled business investments and benefit realization based on COBIT 4.1 framework.<hr/>
+-	Val IT – provides policies and processes for evaluation selection of IT-enabled business investments and benefit realization based on COBIT 4.1 framework.
 
 <h2>•	Cloud governance tools.</h2>
 
@@ -98,7 +98,7 @@ Cloud governance tools are tools provided by a cloud vendor that assist in monit
 2-	AtmoSphere – is a cloud-based software platform as a service that customers use to integrate their own cloud-based applications.<br/>
 
 <h2>•	Data governance. </h2>
-Data governance is a set of guidelines for entities to follow when it comes to managing, securing, and sharing information about business information, company-related information, and confidential information. This ensures that all data and information are properly stored and managed by authorized personnel in order for them to view or apply changes to the data. <hr/>
+Data governance is a set of guidelines for entities to follow when it comes to managing, securing, and sharing information about business information, company-related information, and confidential information. This ensures that all data and information are properly stored and managed by authorized personnel in order for them to view or apply changes to the data. 
 
 <h2>•	References : </h2>
 -	https://www.cloudhealthtech.com/blog/what-is-cloud-governance <br/>
