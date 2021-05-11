@@ -101,14 +101,14 @@ Cloud governance tools are tools provided by a cloud vendor that assist in monit
 Data governance is a set of guidelines for entities to follow when it comes to managing, securing, and sharing information about business information, company-related information, and confidential information. This ensures that all data and information are properly stored and managed by authorized personnel in order for them to view or apply changes to the data. <hr/>
 
 <h2>•	References : </h2>
--	https://www.cloudhealthtech.com/blog/what-is-cloud-governance
--	https://www.xenonstack.com/blog/cloud-governance/
--	https://www.coalfire.com/the-coalfire-blog/may-2018/cloud-security-governance
--	https://www.predicagroup.com/blog/cloud-governance-implementation/
--	https://www.xenonstack.com/blog/cloud-governance/
--	http://www.opengroup.org/cloud/gov_snapshot/p7.htm
--	https://www.cio.com/article/3521011/what-is-data-governance-a-best-practices-framework-for-managing-data-assets.html
--	https://www.lynda.com/IT-tutorials/Cloud-governance-tools/5035813/2224092-4.html 
+-	https://www.cloudhealthtech.com/blog/what-is-cloud-governance <br/>
+-	https://www.xenonstack.com/blog/cloud-governance/<br/>
+-	https://www.coalfire.com/the-coalfire-blog/may-2018/cloud-security-governance<br/>
+-	https://www.predicagroup.com/blog/cloud-governance-implementation/<br/>
+-	https://www.xenonstack.com/blog/cloud-governance/<br/>
+-	http://www.opengroup.org/cloud/gov_snapshot/p7.htm<br/>
+-	https://www.cio.com/article/3521011/what-is-data-governance-a-best-practices-framework-for-managing-data-assets.html<br/>
+-	https://www.lynda.com/IT-tutorials/Cloud-governance-tools/5035813/2224092-4.html <br/>
 
 
 
