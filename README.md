@@ -65,7 +65,7 @@ Processes of cloud governance provide an overarching framework for governing the
 
 <h2>•	Issues of cloud governance.</h2>
 The usage, involvement, and risk around governance differ from entity to entity. 
-<h2>Risks:</2>
+<h2>Risks:</h2>
 -	Security – integrity and confidentiality of data
 -	Audit and Compliance – issues around data jurisdiction maintaining audit trails and data access control
 -	Contract – not fully reading and understand the contract
