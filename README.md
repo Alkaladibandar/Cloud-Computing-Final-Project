@@ -89,6 +89,19 @@ Governance models and standards should follow a certain criterion which is :
 -	ITIL v3 – contains the best practice and process guidance of governance service strategy and management.
 -	Val IT – provides policies and processes for evaluation selection of IT-enabled business investments and benefit realization based on COBIT 4.1 framework.
 
+<h2>•	Cloud governance tools.</h2>
+
+Cloud governance tools are tools provided by a cloud vendor that assist in monitoring, purchasing, managing, and tracking cloud services. The tools provided are designed to assist IT and business executives in making better use of their budgets and staff.
+
+<h2>-	Types of cloud tool :</h2>
+1-	 Cloudability – is a financial management tool that is used to monitor and analyze all cloud expenses in an organization.
+2-	AtmoSphere – is a cloud-based software platform as a service that customers use to integrate their own cloud-based applications.
+
+<h2>•	Data governance. </h2>
+Data governance is a set of guidelines for entities to follow when it comes to managing, securing, and sharing information about business information, company-related information, and confidential information. This ensures that all data and information are properly stored and managed by authorized personnel in order for them to view or apply changes to the data.
+
+
+
 
 
 
