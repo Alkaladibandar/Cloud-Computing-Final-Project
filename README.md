@@ -63,6 +63,32 @@ Processes of cloud governance provide an overarching framework for governing the
 -	Exception granted – the dispensation process communicates its decision to grant a compliance exception request.
 -	Exception rejected – the dispensation process communicates its decision to reject a request for a compliance exception.
 
+<h2>•	Issues of cloud governance.</h2>
+The usage, involvement, and risk around governance differ from entity to entity. 
+<h2>Risks:</2>
+-	Security – integrity and confidentiality of data
+-	Audit and Compliance – issues around data jurisdiction maintaining audit trails and data access control
+-	Contract – not fully reading and understand the contract
+-	Billing – seeing to it that customers are billed correctly for the resources used
+-	Information – the protection of intellectual property.
+-	Performance and availability – the availability and performance levels required by an entity to operate.
+-	Interoperability – the development of a service that may include other services.
+
+<h2>•	Models in cloud computing.</h2>
+Governance models and standards should follow a certain criterion which is : 
+-	Driven by business governance while attending IT governance.
+-	Follow existing governance models and standards.
+-	Should be global and specific to any geography.
+-	Shouldn’t be specific to one industry domain.
+
+<h2>•	Governance standards :</h2>
+
+-	COSO – a framework that contains internal controls
+-	developed by the Committee of Sponsoring Organizations.
+-	COBIT 5 – a governance framework for enterprise IT that complements the COSO framework for corporate governance.
+-	ITIL v3 – contains the best practice and process guidance of governance service strategy and management.
+-	Val IT – provides policies and processes for evaluation selection of IT-enabled business investments and benefit realization based on COBIT 4.1 framework.
+
 
 
 
