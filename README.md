@@ -28,8 +28,8 @@
 <h3>3-	Management and monitoring</h3>
 <h3>4-	Operations and support</h3>
 
--	Cloud security governance supports business objectives by defining policies and managing risks through the establishment and maintenance of a framework that supports management structure and processes to provide assurance that information security strategies are consistent with how an organization operates.
--	Security governance is the means by which you control and direct the organization's approach to security. <hr/>
+<p>-	Cloud security governance supports business objectives by defining policies and managing risks through the establishment and maintenance of a framework that supports management structure and processes to provide assurance that information security strategies are consistent with how an organization operates.
+-	Security governance is the means by which you control and direct the organization's approach to security.</p> <hr/>
 
 <h2>•	Benefits of cloud governance. </h2>
 The benefits of cloud governance benefit an entity as well.
